@@ -32,7 +32,7 @@
     <id>Maven-Artifactory-Plugin</id>
     <url>https://jcenter.bintray.com</url>
   </pluginRepository>
-</pluginRepositories
+         </pluginRepositories>
 
     <!-- This blob of configuration tells Maven to make the jar executable. You can run it with:
     mvn clean package
